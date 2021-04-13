@@ -1,16 +1,16 @@
 import './App.css';
+import Weather from "./Weather.js"
 
 function App() {
   return (
     <div className="App">
       <div className="container">
         <header className="App-header">
-          <h2>
-            Weather App
-          </h2>
-          <button className="btn btn-primary">Hello</button>
-        
+          <Weather />
         </header>
+        <footer>
+          <p>This app was designed and coded by Mariana Almeida </p>
+        </footer>
       </div>
     </div>
   );
