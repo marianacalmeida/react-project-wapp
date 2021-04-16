@@ -1,0 +1,49 @@
+.Weather {
+    width: 270px;
+    margin: 20px auto;
+    border: solid 1px;
+    border-radius: 20px;
+    padding:20px;
+    border-color: orange;
+}
+
+.day-date{
+    text-align: left;
+    padding: 20px 0;
+}
+
+.day-date h1{
+    font-size: 20px;
+}
+
+.day-date h3{
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.emoji {
+    font-size: 80px;
+    padding: 15px 0 10px;
+    margin: 0 auto;
+    line-height: 70px;
+}
+
+.main-t{
+    font-size: 30px;
+    font-weight: 700;
+}
+
+
+.row-infos {
+    padding-top: 15px;
+}
+
+.row-infos p{
+    font-size: 10px;
+    text-align: center;
+}
+
+.sign{
+    font-size: 10px;
+    color: rgb(88, 107, 124);
+}

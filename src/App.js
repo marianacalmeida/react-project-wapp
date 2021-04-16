@@ -5,12 +5,10 @@ function App() {
   return (
     <div className="App">
       <div className="container">
-        <header className="App-header">
+        <div className="App-container">
           <Weather />
-        </header>
-        <footer>
-          <p>This app was designed and coded by Mariana Almeida </p>
-        </footer>
+        </div>
+       
       </div>
     </div>
   );

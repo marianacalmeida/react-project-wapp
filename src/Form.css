@@ -1,0 +1,36 @@
+.form{
+    width: 255px;
+    margin: 0 auto;
+    display: inline;
+}
+
+
+.city-btn {
+    padding: 10px;
+    height: 30px;
+    font-size: 14px;
+    line-height: 10px;
+    border: 0px;
+    display: inline;
+}
+
+.col-search{
+    margin:0;
+    padding: 0 5px 0 0 !important;
+}
+
+.col-city{
+    margin:0;
+    padding: 0;
+}
+
+.search-btn {
+    padding: 10px 5px;
+    text-align: center;
+    height: 30px;
+    line-height: 10px;
+    font-size: 12px;
+    border: 0px;
+    display: inline;
+    background-color: orange;
+}

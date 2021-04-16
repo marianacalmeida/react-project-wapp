@@ -4,6 +4,7 @@ import Form from "./Form.js"
 
 export default function Weather(){
     return (
+        <div className="all">
         <div className="Weather">
             <Form/>
             <div className="day-date">
@@ -29,5 +30,9 @@ export default function Weather(){
                     <p>humidity: 77%</p>
                 </div>
             </div>
+        </div>
+        <footer>
+            <p className="sign">This app was designed and coded by Mariana Almeida</p>
+        </footer>
         </div>
     )}
